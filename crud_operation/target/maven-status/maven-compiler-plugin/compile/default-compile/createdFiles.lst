@@ -1,0 +1,4 @@
+service\CrudImpl.class
+controller\CrudApiController.class
+com\example\demo\CrudOperationApplication.class
+repository\CrudRepository.class
